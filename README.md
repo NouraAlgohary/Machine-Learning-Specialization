@@ -14,6 +14,7 @@ Programming Assignments:
 - [Practice Lab: Decision Trees](https://github.com/NouraAlgohary/Machine-Learning-Specialization/blob/main/Advanced%20Learning%20Algorithms/C2_W4_Decision_Tree_with_Markdown.ipynb)
 
 ## 3. Unsupervised Learning, Recommenders, Reinforcement Learning
+Programming Assignments:
 - [k-means](https://github.com/NouraAlgohary/Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W1_KMeans_Assignment.ipynb)
 - [Anomaly Detection](https://github.com/NouraAlgohary/Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W1_Anomaly_Detection.ipynb)
 - [Collaborative Filtering Recommender Systems](https://github.com/NouraAlgohary/Machine-Learning-Specialization/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W2_Collaborative_RecSys_Assignment.ipynb)
